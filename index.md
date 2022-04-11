@@ -1,9 +1,11 @@
 
 
 
-## 王依章(Yizhang Wang)
+## 王依章 (Yizhang Wang)
 
 Lecture in Yangzhou University, Yangzhou, China.
+
+Email: wyzhang_new[at]sina.com
 
 ## Selected paper
 
