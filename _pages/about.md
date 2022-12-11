@@ -8,10 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Lecturer of computer science at the Yangzhou University (扬州大学). I graduated with a PhD in computer science from Jilin University in  2020. I am also a PostDoc at ISTIC（中信所）, BeiJing, China. 
+I am currently a Lecturer of computer science at the Yangzhou University (扬州大学). I graduated with a PhD in computer science from Jilin University in  2020. I am also a PostDoc at ISTIC（中信所）, BeiJing, China.   
 
-My research interests include Clustering algorithms, and its applications in different fields.
+My research interests include Clustering algorithms, and its applications in different fields.  
 
+Email： wyzhang_new@sina.com
 ## NEWs and Update
 11/12/2022: One paper was decision in process by ***Pattern Recognition***
 
