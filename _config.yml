@@ -85,7 +85,7 @@ author:
   bio              : "Your biography for the left-hand sidebar"
   location         : "Yangzhou, China"
   employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=XcgJsN8AAAAJ&hl=zh-CN"
   email            :
   researchgate     :  "https://www.researchgate.net/profile/Yizhang-Wang/research"
