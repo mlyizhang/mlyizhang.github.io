@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -12,4 +12,4 @@ I am currently a Lecturer of computer science at the Yangzhou University (Yangzh
 
 My research interests include Clustering algorithms, and its applications in different fields.
 
-
+NEWs and Update
