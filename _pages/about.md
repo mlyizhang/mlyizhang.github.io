@@ -17,7 +17,7 @@ Email： wyzhang_new@sina.com
 11/12/2022: One paper was decision in process by ***Pattern Recognition***
 
 
-## Selected paper
+## Selected Papers
 ### 2022
 [1] **Wang Y(#)**, Pang W, Zhou J. An improved density peak clustering algorithm guided by pseudo labels[J]. ***Knowledge-Based Systems***, 252, 2022: 109374. (中科院1区，Top, **CCF C**)  
   
