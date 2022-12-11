@@ -13,7 +13,7 @@ I am currently a Lecturer of computer science at the Yangzhou University (Yangzh
 My research interests include Clustering algorithms, and its applications in different fields.
 
 ## NEWs and Update
-
+11/12/2022: One paper was decision in process by ***Pattern Recognition***
 
 
 ## Selected paper
