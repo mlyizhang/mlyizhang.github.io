@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Lecturer of computer science at the Yangzhou University (扬州大学). I graduated with a PhD in computer science from Jilin University in  2020. I am also a PostDoc at ISTIC（中信所）, BeiJing, China.   
+I am currently a Lecturer of computer science at Yangzhou University (扬州大学). I graduated with a PhD in computer science from Jilin University in 2020. I am currently also a PostDoc at ISTIC（中信所）, BeiJing, China.   
 
 My research interests include clustering algorithms, and its applications in different fields.  
 
