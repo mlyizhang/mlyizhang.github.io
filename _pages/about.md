@@ -21,7 +21,7 @@ Email： wyzhang_new@sina.com
 
 ## Selected Papers
 ### 2022
-[1] **Wang Y(#)**, Pang W, Jiao Z. An Adaptive Mutual K-nearest Neighbors Clustering Algorithm based on Maximizing Mutual Information[J]. ***Pattern Recognition***, 2022. (accept) (中科院1区， **CCF B**)  
+[1] **Wang Y(#)**, Pang W, Jiao Z. An Adaptive Mutual K-nearest Neighbors Clustering Algorithm based on Maximizing Mutual Information[J]. ***Pattern Recognition***, 2022: 109273. (中科院1区， **CCF B**)  
 
 [2] **Wang Y(#)**, Pang W, Zhou J. An improved density peak clustering algorithm guided by pseudo labels[J]. ***Knowledge-Based Systems***, 252, 2022: 109374. (中科院1区， **CCF C**)  
   
