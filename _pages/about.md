@@ -21,11 +21,11 @@ Email： wyzhang_new@sina.com
 
 ## Selected Papers
 ### 2022
-[1] **Wang Y(#)**, Pang W, Jiao Z. An Adaptive Mutual K-nearest Neighbors Clustering Algorithm based on Maximizing Mutual Information[J]. ***Pattern Recognition***, 2022: 109273. (中科院1区， **CCF B**)  
+[1] **Wang Y(#)**, Pang W, Jiao Z. An adaptive mutual K-nearest neighbors clustering algorithm based on maximizing mutual information[J]. ***Pattern Recognition***, 2023, 137: 109273. (中科院1区， **CCF B**)  
 
 [2] **Wang Y(#)**, Pang W, Zhou J. An improved density peak clustering algorithm guided by pseudo labels[J]. ***Knowledge-Based Systems***, 252, 2022: 109374. (中科院1区， **CCF C**)  
   
-[3] **Y. Wang**, D. Wang(#), Y. Zhou, X. Zhang, C. Quek, VDPC: Variational Density Peak Clustering Algorithm[J]. ***Information Sciences***, 621, 2022: 627-651. (中科院1区，**CCF B**)  
+[3] **Wang Y**, Wang D, Zhou Y, et al. VDPC: Variational density peak clustering algorithm[J]. ***Information Sciences***, 2023, 621: 627-651. (中科院1区， **CCF B**)     
 ### 2020
 
 [1] **Wang Y**, Wang D, Zhang X, et al. McDPC: multi-center density peak clustering[J]. ***Neural Computing and Applications***, 2020, 32(17): 13465-13478.([code](https://github.com/mlyizhang/Multi-center-DPC)) (中科院2区, **CCF C**)
