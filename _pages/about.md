@@ -31,6 +31,7 @@ Email： wyzhang_new@sina.com
 [1] **Wang Y**, Wang D, Zhang X, et al. McDPC: multi-center density peak clustering[J]. ***Neural Computing and Applications***, 2020, 32(17): 13465-13478.([code](https://github.com/mlyizhang/Multi-center-DPC)) (中科院2区, **CCF C**)
 
 [2] **Wang Y**, Wang D, Pang W, et al. A systematic density-based clustering method using anchor points[J]. ***Neurocomputing***, 2020, 400: 352-370. (中科院2区, **CCF C**)  
+
 ## Related Resources
-evaluation index [code](https://github.com/mlyizhang/evaluation)
-datasets for clustering [download](https://github.com/mlyizhang/Datasets)
+Evaluation index [code](https://github.com/mlyizhang/evaluation)  
+Datasets for clustering [download](https://github.com/mlyizhang/Datasets)  
