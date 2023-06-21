@@ -16,6 +16,7 @@ My research interests include clustering algorithms, and its applications in dif
 
 Email： wyzhang_new@sina.com
 ## News
+21/6/2023: One paper was submmited to  ***Applied Intelligence***  
 15/4/2023: One paper was submmited to  ***Expert Systems With Applications***  
 
 
