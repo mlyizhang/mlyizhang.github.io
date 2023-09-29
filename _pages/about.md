@@ -23,7 +23,7 @@ Email： wyzhang_new@sina.com
 
 ## Selected Papers
 ### 2023
-[1] **Wang Y(#)**, J. Qian, M. Hassan et al., Density peak clustering algorithms: Areview on the decade 2014–2023. ***Expert Systems With Applications*** (2023). (中科院1区， **CCF C**)  
+[1] **Wang Y(#)**, J. Qian, M. Hassan et al., Density peak clustering algorithms: A review on the decade 2014–2023. ***Expert Systems With Applications*** (2023). (中科院1区， **CCF C**)  
 ### 2022
 [1] **Wang Y(#)**, Pang W, Jiao Z. An adaptive mutual K-nearest neighbors clustering algorithm based on maximizing mutual information[J]. ***Pattern Recognition***, 2023, 137: 109273. (中科院1区， **CCF B**)  
 
