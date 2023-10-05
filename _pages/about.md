@@ -23,17 +23,15 @@ Email： wyzhang_new@sina.com
 
 ## Selected Papers
 ### 2023
-[1] **Wang Y(#)**, Qian J, Hassan M, et al. Density peak clustering algorithms: A review on the decade 2014–2023[J]. ***Expert Systems with Applications***, 2023: 121860.(中科院1区， **CCF C**)  
+[1] **Wang Y(#)**, Qian J, Hassan M, et al. Density peak clustering algorithms: A review on the decade 2014–2023[J]. ***Expert Systems with Applications***, 2023: 121860. (中科院1区， **CCF C**) 
+
 ### 2022
 [1] **Wang Y(#)**, Pang W, Jiao Z. An adaptive mutual K-nearest neighbors clustering algorithm based on maximizing mutual information[J]. ***Pattern Recognition***, 2023, 137: 109273. (中科院1区， **CCF B**)  
-
 [2] **Wang Y(#)**, Pang W, Zhou J. An improved density peak clustering algorithm guided by pseudo labels[J]. ***Knowledge-Based Systems***, 252, 2022: 109374. (中科院1区， **CCF C**)  
-  
 [3] **Wang Y**, Wang D, Zhou Y, et al. VDPC: Variational density peak clustering algorithm[J]. ***Information Sciences***, 2023, 621: 627-651.([code](https://github.com/mlyizhang/VDPC))  (中科院1区， **CCF B**)     
 ### 2020
 
-[1] **Wang Y**, Wang D, Zhang X, et al. McDPC: multi-center density peak clustering[J]. ***Neural Computing and Applications***, 2020, 32(17): 13465-13478.([code](https://github.com/mlyizhang/Multi-center-DPC)) (中科院2区, **CCF C**)
-
+[1] **Wang Y**, Wang D, Zhang X, et al. McDPC: multi-center density peak clustering[J]. ***Neural Computing and Applications***, 2020, 32(17): 13465-13478.([code](https://github.com/mlyizhang/Multi-center-DPC)) (中科院2区, **CCF C**)  
 [2] **Wang Y**, Wang D, Pang W, et al. A systematic density-based clustering method using anchor points[J]. ***Neurocomputing***, 2020, 400: 352-370. (中科院2区, **CCF C**)  
 
 ## Related Resources
