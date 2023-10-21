@@ -15,11 +15,6 @@ I am currently a Lecturer of computer science at Yangzhou University. I graduate
 My research interests include clustering algorithms, and its applications in different fields.  
 
 Email： wyzhang_new@sina.com
-## News
-12/9/2023: One paper was submmited to  ***IEEE Transactions on Knowledge and Data Engineering***  
-21/6/2023: One paper was submmited to  ***Applied Intelligence***  
-15/4/2023: One paper was submmited to  ***Expert Systems With Applications***  
-
 
 ## Selected Papers
 ### 2023
