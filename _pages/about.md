@@ -16,7 +16,7 @@ My research interests include clustering algorithms, and its applications in dif
 
 Email： wyzhang_new@sina.com
 
-## Selected Papers
+## Publications
 ### 2024
 [1] Qian J, Zhou Y, Han X, **Wang Y(#)**. MDBSCAN: A multi-density DBSCAN based on relative density[J]. ***Neurocomputing***, 2024, 576: 127329.  
 [2] **Wang Y(#)**,W Pang, Witold Pedrycz, One-shot Federated Clustering based on Stable Distance Relationships[J]. ***IEEE Transactions on Industrial Informatics***, 2024 (Accept)
